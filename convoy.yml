@@ -1,0 +1,8 @@
+---
+project:
+  name: convoy-fred
+  github:
+    repo: xtreme-fredrich-ombico/convoy-test-01
+  pivotal-trackers:
+    - projectid: 1779209
+    - projectid: 1443466
