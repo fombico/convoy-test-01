@@ -6,3 +6,5 @@ project:
   pivotal-trackers:
     - projectid: 1779209
     - projectid: 1443466
+other_projects:
+  - repo: pivotal-nader-ziada/turbo-hello-world-app
