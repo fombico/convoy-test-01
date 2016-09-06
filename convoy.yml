@@ -6,5 +6,5 @@ project:
   pivotal-trackers:
     - projectid: 1779209
     - projectid: 1443466
-other_projects:
+other-projects:
   - repo: pivotal-ria-stein/convoy-hook-test
