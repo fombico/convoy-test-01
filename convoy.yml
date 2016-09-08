@@ -7,4 +7,5 @@ project:
     - projectid: 1779209
     - projectid: 1443466
 other-projects:
-  - repo: pivotal-ria-stein/convoy-hook-test
+  - repo: pivotal
+garbage test
